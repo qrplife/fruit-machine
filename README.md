@@ -17,3 +17,11 @@ Run with:
 ```
 python3 mills.py
 ```
+
+Output sample:
+```
+Auto play mode. 80 credits.
+Stats after 124 pulls:
+{"C-C-L": 6, "C-C-B": 3, "O-O-O": 1}
+124 coins bet, 44 coins paid. 35.5% payback
+```
