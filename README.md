@@ -15,7 +15,7 @@ I've always enjoyed playing mechanical and electro-mechanical slot machines. The
 
 Run with:
 ```
-python3 mills.py
+python3 slots.py
 ```
 
 Output sample:
