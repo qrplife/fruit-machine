@@ -32,7 +32,7 @@ M108PC = {
 "C-C-P": 2
 }
 
-# Mills 102 Pay Card (C-C-* not implemented)
+# Mills 102 Pay Card
 M102PC = {
 "R-R-R": 20,
 "B-B-B": 16,
@@ -42,7 +42,11 @@ M102PC = {
 "O-O-O": 8,
 "O-O-R": 8,
 "C-C-L": 4,
-"C-C-B": 4
+"C-C-B": 4,
+"C-C-O": 2, # To support C-C-*
+"C-C-P": 2,
+"C-C-R": 2,
+"C-C-C": 2 # Impossible with Mills 536-SP-3 reel in the third position.
 }
 
 # This class simulates the slot machine hardware and operation.
