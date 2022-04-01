@@ -1,3 +1,4 @@
+# Python bytecode cache and venv resources.
 /__pycache__
 /bin
 /include

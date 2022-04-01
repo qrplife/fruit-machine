@@ -42,5 +42,5 @@ while True:
 
 print(f"Stats after {m.pulls} pulls:")
 print(json.dumps(stats))
-print(f"{m.pulls} coins bet, {m.paid} coins paid. {round((m.paid/m.pulls) * 100,1)}% payback")
+print(f"{m.pulls} coins bet, {m.paid} coins paid. {round((m.paid/m.pulls) * 100,1)}% payback.")
 

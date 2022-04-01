@@ -1,5 +1,5 @@
 # Vintage Slot Machine
-This program simulates a slot machine like those from manufacturers such as Mills Novelty Company.
+This program simulates a Mills Novelty Company mechanical slot machine.
 
 The reels simulated are:
 * Mills 536-SP-1

@@ -19,10 +19,12 @@ M536SP3 = ['O','L','P','B','O','L','P','O','B','P','L','O','P','O','R','L','P','
 # L - Lemon
 # C - Cherry
 
-# Mills 108 Pay card "Fruit King"
+# Mills 108 Pay card "Fruit King". 
+# Note: this pay table is not compatible with Mills 536-SP-3 in the 3rd
+# because that reel strip has no cherry symbol. 
 M108PC = {
 "R-R-R": 20,
-"C-C-C": 12,
+"C-C-C": 12, # See note.
 "C-C-B": 8,
 "C-C-L": 4,
 "C-C-R": 2,
